@@ -1,0 +1,11 @@
+{
+	"dotnet-test-explorer.testProjectPath": "**/*.Tests.csproj",
+	"cSpell.ignoreWords": [
+		"dado",
+		"invalida",
+		"nenhum",
+		"pessoa",
+		"preenchido"
+	]
+
+}
